@@ -19,7 +19,4 @@ public class SwaggerConfig {
                         .description("Test api 입니다.")
                         .version("v0.0.1"));
     }
-
-
-
 }
