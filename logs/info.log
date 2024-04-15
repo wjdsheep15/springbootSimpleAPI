@@ -1,0 +1,6 @@
+[2024-03-29 15:21:19.181] [INFO ] [Test worker] com.springboot.api.ApiApplicationTests Starting ApiApplicationTests using Java 21.0.2 with PID 29874 (started by seunggeun in /Users/seunggeun/Documents/api)
+[2024-03-29 15:21:19.181] [INFO ] [Test worker] com.springboot.api.ApiApplicationTests No active profile set, falling back to 1 default profile: "default"
+[2024-03-29 15:21:19.657] [INFO ] [Test worker] com.springboot.api.ApiApplicationTests Started ApiApplicationTests in 0.59 seconds (process running for 0.981)
+[2024-03-29 15:24:11.131] [INFO ] [Test worker] com.springboot.api.ApiApplicationTests Starting ApiApplicationTests using Java 21.0.2 with PID 29934 (started by seunggeun in /Users/seunggeun/Documents/api)
+[2024-03-29 15:24:11.133] [INFO ] [Test worker] com.springboot.api.ApiApplicationTests No active profile set, falling back to 1 default profile: "default"
+[2024-03-29 15:24:11.612] [INFO ] [Test worker] com.springboot.api.ApiApplicationTests Started ApiApplicationTests in 0.597 seconds (process running for 0.996)
