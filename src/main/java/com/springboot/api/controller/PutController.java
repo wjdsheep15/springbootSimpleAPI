@@ -20,7 +20,6 @@ public class PutController {
         putData.entrySet().forEach(map ->{
             sb.append(map.getKey() + " : " + map.getValue() + "\n");
         });
-
         return sb.toString();
     }
 
